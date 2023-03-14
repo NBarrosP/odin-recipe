@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+img {
+    align-items: center;
+    height: auto;
+    width: 500px;
+}
+
+.subtitulo {
+    text-decoration: underline;
+}
